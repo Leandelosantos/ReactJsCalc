@@ -1,5 +1,6 @@
 {
   "name": "calculadora",
+  "homepage": "https://leandrodelosantos.github.io/ReactJsCalc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
